@@ -1,0 +1,21 @@
+Spécialité,Chirurgien,Disponibilité (jours/7),Jours de disponibilité,Salle opératoire
+Sp0,"['CH0-1', 'CH0-2', 'CH0-3']",6/7,"Lundi, Mardi, Mercredi, Jeudi, Vendredi, Samedi","['B1S1','B1S2']"
+Sp1,"['CH1-1', 'CH1-2']",6/7,"Lundi, Mardi, Mercredi, Jeudi, Vendredi, Samedi",Autre
+Sp2,"['CH2-1', 'CH2-2', 'CH2-3']",6/7,"Lundi, Mardi, Mercredi, Jeudi, Vendredi, Samedi",Autre
+Sp3,"['CH3-1', 'CH3-2']",6/7,"Lundi, Mardi, Mercredi, Jeudi, Vendredi, Samedi",Autre
+Sp4,"['CH4-1', 'CH4-2']",6/7,"Lundi, Mardi, Mercredi, Jeudi, Vendredi, Samedi",Autre
+Sp5,"['CH5-1', 'CH5-2', 'CH5-3', 'CH5-4']",6/7,"Lundi, Mardi, Mercredi, Jeudi, Vendredi, Samedi",Autre
+Sp6,"['CH6-1', 'CH6-2']",6/7,"Lundi, Mardi, Mercredi, Jeudi, Vendredi, Samedi",Autre
+Sp7,"['CH7-1', 'CH7-2', 'CH7-3']",6/7,"Lundi, Mardi, Mercredi, Jeudi, Vendredi, Samedi",Autre
+Sp8,"['CH8-1', 'CH8-2']",6/7,"Lundi, Mardi, Mercredi, Jeudi, Vendredi, Samedi",Autre
+Sp9,"['CH9-1', 'CH9-2']",6/7,"Lundi, Mardi, Mercredi, Jeudi, Vendredi, Samedi",Autre
+Sp10,"['CH10-1', 'CH10-2']",6/7,"Lundi, Mardi, Mercredi, Jeudi, Vendredi, Samedi",Autre
+Sp11,"['CH11-1', 'CH11-2', 'CH11-3']",6/7,"Lundi, Mardi, Mercredi, Jeudi, Vendredi, Samedi",Autre
+Sp12,"['CH12-1', 'CH12-2']",6/7,"Lundi, Mardi, Mercredi, Jeudi, Vendredi, Samedi",Autre
+Sp13,"['CH13-1', 'CH13-2', 'CH13-3', 'CH13-4']",6/7,"Lundi, Mardi, Mercredi, Jeudi, Vendredi, Samedi",Autre
+Sp14,"['CH14-1', 'CH14-2']",6/7,"Lundi, Mardi, Mercredi, Jeudi, Vendredi, Samedi",Autre
+Sp15,"['CH15-1', 'CH15-2']",6/7,"Lundi, Mardi, Mercredi, Jeudi, Vendredi, Samedi",Autre
+Sp16,"['CH16-1', 'CH16-2']",6/7,"Lundi, Mardi, Mercredi, Jeudi, Vendredi, Samedi",Autre
+Sp17,"['CH17-1', 'CH17-2']",6/7,"Lundi, Mardi, Mercredi, Jeudi, Vendredi, Samedi",Autre
+Sp18,"['CH18-1', 'CH18-2']",6/7,"Lundi, Mardi, Mercredi, Jeudi, Vendredi, Samedi",Autre
+Sp19,"['CH19-1', 'CH19-2']",6/7,"Lundi, Mardi, Mercredi, Jeudi, Vendredi, Samedi",Autre
